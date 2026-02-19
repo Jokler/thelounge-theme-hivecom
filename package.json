@@ -1,0 +1,25 @@
+{
+  "name": "thelounge-theme-hivecom",
+  "version": "1.0.0",
+  "description": "Hivecom TheLounge Theme",
+  "main": "package.json",
+  "thelounge": {
+    "name": "Hivecom",
+    "type": "theme",
+    "css": "hivecom.css"
+  },
+  "homepage": "https://github.com/hivecom/thelounge-theme-hivecom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hivecom/thelounge-theme-hivecom.git"
+  },
+  "keywords": [
+    "thelounge",
+    "thelounge-theme",
+    "Hivecom",
+    "dark"
+  ],
+  "bugs": {
+    "url": "https://github.com/hivecom/thelounge-theme-hivecom/issues"
+  }
+}
